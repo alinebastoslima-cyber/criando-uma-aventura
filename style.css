@@ -10,5 +10,7 @@ body {
 }
 
 button {
-    background-color: #64A712;
+    background-color: #64a712;
+    color: white;
+    font-family: "Bai jamjuree", sans-serif;
 }
