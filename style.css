@@ -14,3 +14,7 @@ button {
     color: white;
     font-family: "Bai jamjuree", sans-serif;
 }
+
+.passo{
+    display: none;
+}
