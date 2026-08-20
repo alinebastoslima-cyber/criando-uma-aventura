@@ -12,22 +12,6 @@ body {
 button {
     background-color: #64a712;
     color: white;
-    font-family: "Bai jamjuree", sans-serif;
+    font-family: "Bai Jamjuree", sans-serif;
 }
 
-.passo{
-    display: none;
-}
-
-.passo.ativo{
-    display:block;
-}
-
-main {
-    text-align: center;
-    max-width: 90%;
-}
-
-img {
-    max-width: 80%;
-}
